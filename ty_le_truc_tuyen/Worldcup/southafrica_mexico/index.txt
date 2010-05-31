@@ -1,0 +1,9 @@
+﻿{	
+	"version": "0.9.1",
+	"type": "richtext",
+	"left_button": {"type": "select", "name": "Chọn"}
+	"right_button": {"type": "go_to_url", "name": "Trở lại","url": "ty_le_truc_tuyen/Worldcup/index.txt"},,
+	"auto_refresh": "6000",
+	"form_title": "South Africa - Mexico",
+	"info": "<b><p><i>11/06/2010 14:30 Sbobet.com</i></p>Overall</b><p><b>France (N)</b>: +0.5  @2.02</p><p><b>Uruguay</b>: -0.5  @1.91</p><p>+2 	@1,98</p><p>-2		@1.95</p><b>half time</b><p><i>11/06/2010 14:30</i></p><p><b>France (N)</b>: +0.5  @2.02</p><p><b>Uruguay</b>: -0.5  @1.91</p><p>+1 	@1.97</p><p>-1		@1.95</p> "
+}

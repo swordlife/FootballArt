@@ -1,0 +1,13 @@
+﻿{
+	"version": "0.9.1",
+	"type": "list",
+	"left_button": {"type": "select", "name": "Chọn"}
+	"right_button": {"type": "go_to_url", "name": "Trở lại", "url": "/"},
+	"auto_refresh": "60000",
+	"form_title": "Tin tức",
+	"items": [{"href": "thong_tin_ben_le/1.txt", "name": "Tiêu đề tin số 1"},
+			  {"href": "thong_tin_ben_le/2.txt", "name": "Tiêu đề tin số 2"},
+			  {"href": "thong_tin_ben_le/3.txt", "name": "Tiêu đề tin số 3"},
+			  {"href": "thong_tin_ben_le/4.txt", "name": "Tiêu đề tin số 4"},
+			  {"href": "thong_tin_ben_le/5.txt", "name": "Tiêu đề tin số 5"}]
+}

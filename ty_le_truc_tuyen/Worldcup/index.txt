@@ -1,0 +1,15 @@
+﻿{
+	"version": "0.9.1",
+	"type": "list",
+	"left_button": {"type": "select", "name": "Chọn"}
+	"right_button": {"type": "go_to_url", "name": "Trở lại", "url": "ty_le_truc_tuyen/index.txt"},
+	"auto_refresh": "60000",
+	"form_title": "Danh sách trận đấu",
+	"items": [{"href": "ty_le_truc_tuyen/Worldcup/southafrica_mexico/index.txt", "name": "South Africa - Mexico"},
+			  {"href": "ty_le_truc_tuyen/Worldcup/france_uruguay/index.txt", "name": "France - Uruguay"},
+			  {"href": "ty_le_truc_tuyen/Worldcup/france_uruguay/index.txt", "name": "Greece - Korea Rep"},
+			  {"href": "ty_le_truc_tuyen/Worldcup/france_uruguay/index.txt", "name": "Argentina - Nigeria"},
+			  {"href": "ty_le_truc_tuyen/Worldcup/france_uruguay/index.txt", "name": "France - Uruguay"},
+			  {"href": "ty_le_truc_tuyen/Worldcup/france_uruguay/index.txt", "name": "France - Uruguay"},
+			  {"href": "ty_le_truc_tuyen/Worldcup/france_uruguay/index.txt", "name": "France - Uruguay"}]
+}
